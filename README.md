@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Akansha Roy
 
-🎨 **Frontend Developer | Open Source Enthusiast**  
+🎨 **Frontend Developer**  
 Welcome to my GitHub profile! I'm a frontend developer passionate about building responsive and dynamic user interfaces. With experience in frameworks like **React**, I enjoy turning complex ideas into engaging, user-friendly applications.
 
 ### 🚀 About Me
