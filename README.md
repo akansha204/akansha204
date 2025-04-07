@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a passionate software developer skilled in Jav
 
 ### 🛠️ Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,git,github,postman,socket.io" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,git,github,postman,socket" />
 </div>
 
 ---
