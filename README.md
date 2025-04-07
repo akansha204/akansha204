@@ -1,36 +1,38 @@
 # 👋 Hello! I'm Akansha Roy
 
-🎨 **Frontend Developer**  
-Welcome to my GitHub profile! I'm a frontend developer passionate about building responsive and dynamic user interfaces. With experience in frameworks like **React**, I enjoy turning complex ideas into engaging, user-friendly applications.
+🎨 **Frontend & Full-Stack Developer**  
+Welcome to my GitHub profile! I'm a passionate software developer skilled in JavaScript, Java, and the MERN stack. I enjoy building responsive, dynamic, and meaningful web applications that solve real-world problems.
 
 ### 🚀 About Me
-- 💻 **Frontend Frameworks:** React
-- 🌱 **Currently Learning:**  TypeScript or Next.js
-- 🎯 **Current Focus:** Creating impactful projects, improving my skills in specific area like accessibility or performance optimization
-- 👨‍💻 **Open Source Contributor:** Recently contributed to the **GirlScript Summer of Code 2024 (Extended Edition)**, enhancing the Tic-Tac-Toe game with high score tracking and other features to improve user experience.
-
+- 💻 **Tech Stack:** JavaScript, Java, React.js, Node.js, Express.js, MongoDB
+- 📚 **Currently Learning:** TypeScript | Next.js | Cloud Basics (AWS)
+- 🎯 **Focus:** Full-stack development, scalable architecture, performance optimization
+- 🤝 **Open Source Contributor:** Participated in **GirlScript Summer of Code 2024 (Extended Edition)**, contributing features like high score tracking to enhance the Tic-Tac-Toe game project.
+- 🎓 **Education:** B.Tech CSE @ JSSATE Noida | Class of 2026
 
 ---
 
-### 🏆 Badges
- <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
+### 🛠️ Tech Stack
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,git,github" />
 </div>
 
+---
+
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AkanshaRoy&show_icons=true&theme=radical" alt="Akansha's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkanshaRoy&theme=radical" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkanshaRoy&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
 ---
 
+### 📬 Let's Connect!
+- [LinkedIn](https://www.linkedin.com/in/akansha-roy/)
+- [Portfolio Website](#) *(Coming Soon!)*
 
-### 📫 Connect With Me
-
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/akansha-roy-1a820625a/)
 ---
-
-Thank you for visiting my profile! I'm always open to collaboration and exploring new ideas. Let's connect and create something amazing!
 
