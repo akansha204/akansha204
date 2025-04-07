@@ -19,16 +19,6 @@ Welcome to my GitHub profile! I'm a passionate software developer skilled in Jav
 
 ---
 
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AkanshaRoy&show_icons=true&theme=radical" alt="Akansha's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkanshaRoy&theme=radical" alt="GitHub Streak" />
-  <br/>
-</div>
-
----
-
 ### 📬 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/akansha-roy/)
 - [Portfolio Website](#) *(Coming Soon!)*
