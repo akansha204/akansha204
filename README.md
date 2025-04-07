@@ -25,7 +25,6 @@ Welcome to my GitHub profile! I'm a passionate software developer skilled in Jav
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkanshaRoy&theme=radical" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkanshaRoy&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ---
