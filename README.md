@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm a passionate software developer skilled in Jav
 ---
 
 ### 📬 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/akansha-roy/)
+- [LinkedIn](https://www.linkedin.com/in/akansha-roy-1a820625a/)
 - [Portfolio Website](#) *(Coming Soon!)*
 
 ---
