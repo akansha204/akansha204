@@ -1,7 +1,7 @@
 # Hello! I'm Akansha Roy
 
 # 💫 About Me:
- I’m currently working on: ClientSync, a productivity-based full-stack project with Supabase integration.<br><br> I’m looking to collaborate on: open-source projects, especially around full-stack or MERN-based applications.<br><br> I’m currently learning: Cloud Basics (AWS) and improving my backend architecture skills.<br><br> Ask me about: JavaScript, MERN Stack, or contributing to open source.<br><br>  Fun fact: I love building meaningful UIs that actually solve user problems.<br><br>
+ I’m currently working on: ClientSync, a productivity-based full-stack project with Supabase integration.<br> I’m looking to collaborate on: open-source projects, especially around full-stack or MERN-based applications.<br> I’m currently learning: Cloud Basics (AWS) and improving my backend architecture skills.<br> Ask me about: JavaScript, MERN Stack, or contributing to open source.<br> Fun fact: I love building meaningful UIs that actually solve user problems.<br>
 
 
 ## 🌐 Socials:
