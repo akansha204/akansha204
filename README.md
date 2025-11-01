@@ -13,6 +13,5 @@ I’m currently learning: Springboot, Cloud Basics (AWS) and improving my backen
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=akansha204&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/akansha-roy-1a820625a/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/clumsyaf222) 
+## 🌐 Socials: [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/clumsyaf222) 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
