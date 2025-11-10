@@ -26,7 +26,13 @@ I'm akansha roy<br>
 ![akansha204's Stats](https://github-readme-stats.vercel.app/api?username=akansha204&theme=radical&show_icons=true&hide_border=true&count_private=true)
 ![akansha204's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akansha204&theme=radical&show_icons=true&hide_border=true&layout=compact)
 
+
  <br>
+ 
+ ![Image](https://github.com/user-attachments/assets/6e0aca46-c491-4a60-969d-f816666274f2)
+ 
+ <br>
+ 
  <div align="">
 <img src="https://komarev.com/ghpvc/?username=akansha204&&style=flat-square" align="center" />
 </div> 
