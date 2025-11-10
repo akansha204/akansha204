@@ -28,11 +28,7 @@ I'm akansha roy<br>
 
 
  <br>
- 
- ![Image](https://github.com/user-attachments/assets/6e0aca46-c491-4a60-969d-f816666274f2)
- 
- <br>
- 
+   
  <div align="">
 <img src="https://komarev.com/ghpvc/?username=akansha204&&style=flat-square" align="center" />
 </div> 
