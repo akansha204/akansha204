@@ -23,10 +23,6 @@ I'm akansha roy<br>
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
 </div><br>
 
-![akansha204's Stats](https://github-readme-stats.vercel.app/api?username=akansha204&theme=radical&show_icons=true&hide_border=true&count_private=true)
-![akansha204's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akansha204&theme=radical&show_icons=true&hide_border=true&layout=compact)
-
-
  <br>
    
  <div align="">
